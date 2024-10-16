@@ -1,0 +1,12 @@
+
+*.json
+.next/app-build-manifest.json
+*.gz
+*.gz
+/.next/cache/images/Ey5xfFJrlxF6+A6icZaPy1gByF26qpCvrHCCowWs40Y=
+*.old
+.next/server/app/page.js
+/.next
+next-env.d.ts
+/node_modules
+pnpm-lock.yaml
